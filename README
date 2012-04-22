@@ -1,0 +1,7 @@
+MEPS FPX PHP Class
+==================
+Integration with Malaysian Electronic Payment System (MEPS) - Financial Processing Exchange (FPX) payment gateway.
+
+Usage
+-----
+Refer to request.php and response.php for sample code on how to use.
